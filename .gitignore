@@ -1,0 +1,20 @@
+# Secret keys - NEVER upload this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data folders (can be large)
+data/pdfs/
+data/vectordb/
+
+# Virtual environment
+venv/
+.venv/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
