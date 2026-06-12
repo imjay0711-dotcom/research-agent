@@ -10,6 +10,12 @@ The agent runs as a Streamlit web app where you type any research topic and watc
 3. Store and retrieve information using a vector database
 4. Generate a structured markdown report with summary, findings, and references
 
+## 🎥 Demo
+
+![Research Agent UI](images/screenshot.png)
+
+The agent runs as a Streamlit web app where you type any research topic and watch it autonomously:
+
 ## 🏗️ Architecture
 
 ```
